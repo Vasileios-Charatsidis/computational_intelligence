@@ -19,7 +19,7 @@ Our controller achieved the 1st position in the 40-race general competition (on 
 
 ## Documents
 - [Paper](./documents/report.pdf)
-- [Assignment](./documents/assignment.pdf)
+- [Assignment](./documents/Assignment.pdf)
 
 ## Installation and Testing
 See the [installation guidelines](./documents/installation_guides/)
