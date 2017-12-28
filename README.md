@@ -12,10 +12,11 @@ We apply methods from different paradigms of Computational Intelligence to devel
 Our controller achieved the 1st position in the 40-race general competition (on many different tracks) and the 4th position in the final tournament at the Computational Intelligence course in December 2016.
 </p>
 
+<img src="./img/ranking.png" alt="Ranking in class competition" style="width: 100px;"/>
 
-<img src="./img/ranking.png" alt="Ranking in class competition" style="width: 100px;"/> | 
-:-------------------------: |
-|  Ranked 1st (socio-pathfinders) |
+<p align="center">
+  <i> Ranked 1st - Socio-pathfinders </i>
+</p>
 
 ## Documents
 - [Paper](./documents/report.pdf)
@@ -33,10 +34,11 @@ See the [installation guidelines](./documents/installation_guides/)
 ## Contributors
 - [Dana Kianfar](https://github.com/danakianfar) 
 - [Jose Gallego](https://github.com/jgalle29)
+- [Jonas Koehler](https://github.com/jonas-koehler)
 
 ## Copyright
 
-Copyright © 2016 Dana Kianfar and Jose Gallego.
+Copyright © 2016 Dana Kianfar, Jose Gallego and Jonas Koehler.
 
 <p align="justify">
 This project is distributed under the <a href="LICENSE">MIT license</a>. Please follow the <a href="http://student.uva.nl/en/az/content/plagiarism-and-fraud/plagiarism-and-fraud.html">UvA regulations governing Fraud and Plagiarism</a> in case you are a student.
