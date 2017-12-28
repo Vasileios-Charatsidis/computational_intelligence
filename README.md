@@ -7,22 +7,22 @@
 Code for the final project of the [Computational Intelligence course at the University of Amsterdam](http://gss.uva.nl/content/masters/artificial-intelligence/study-programme/computational-intelligence.html).
 
 <p align="justify">
-We apply methods from different paradigms of Computational Intelligence to develop controllers for virtual car racing on [The Open Racing Car Platform (TORCS)](http://torcs.sourceforge.net/). State-of-the-art controllers employ a variety of techniques ranging from optimizing physics-based heuristics using evolutionary algorithms, to training multi-layer perceptrons to imitate existing controllers. We propose a novel method based on swarm communication and describe our controller in our [report](./documents/report.pdf). 
+We apply methods from different paradigms of Computational Intelligence to develop controllers for virtual car racing on [The Open Racing Car Platform (TORCS)](http://torcs.sourceforge.net/). State-of-the-art controllers employ a variety of techniques ranging from optimizing physics-based heuristics using evolutionary algorithms, to training multi-layer perceptrons to imitate existing controllers. We propose a novel method based on swarm communication and describe our controller in our <a href="./documents/report.pdf">report</a>. 
 
 Our controller achieved the 1st position in the 40-race general competition (on many different tracks) and the 4th position in the final tournament at the Computational Intelligence course in December 2016.
 </p>
 
-|  Ranked 1st (sociopathfinders) |
-:-------------------------: |
-<img src="ranking.png" alt="Ranking in class competition." style="width: 100px;"/> | 
 
+<img src="./img/ranking.png" alt="Ranking in class competition." style="width: 100px;"/> | 
+:-------------------------: |
+|  Ranked 1st (sociopathfinders) |
 
 ## Documents
 - [Paper](./documents/report.pdf)
-- [Assignment](presentation.pdf)
+- [Assignment](./documents/assignment.pdf)
 
 ## Installation and Testing
-See the [installation guides](./documents/installation_guides/)
+See the [installation guidelines](./documents/installation_guides/)
 
 
 ## Dependencies
