@@ -15,7 +15,7 @@ Our controller achieved the 1st position in the 40-race general competition (on 
 <img src="./img/ranking.png" alt="Ranking in class competition" style="width: 100px;"/>
 
 <p align="center">
-  <i> Ranked 1st - Socio-pathfinders </i>
+  <i> Ranked 1st - sociopathfinders </i>
 </p>
 
 ## Documents
